@@ -25,5 +25,5 @@
 - (GET) localhost:8080/item/csv
   - Returns a CSV file.
 
-### Database
-- In this code, SQLite is used as the database for storing and retrieving inventory items. The advantage of using SQLite is its simplicity, ease of use, and low overhead. It requires no setup or configuration, and it can handle most small-scale data storage and retrieval tasks efficiently. Additionally, it is open-source and has a large user community, which means that there is plenty of support available.
+### Database:
+- SQLite
